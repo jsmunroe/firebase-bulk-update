@@ -1,0 +1,15 @@
+{
+  "name": "firebase-bulk-update",
+  "version": "1.0.0",
+  "description": "Bulk update utility for firebase firestore.",
+  "main": "upload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.0.2",
+    "firebase-admin": "^9.11.1"
+  }
+}
